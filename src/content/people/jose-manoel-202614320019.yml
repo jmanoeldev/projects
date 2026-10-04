@@ -1,0 +1,16 @@
+name:
+  compact: José Manoel
+  full: José Manoel Ferreira Silva
+avatar:
+  github: https://github.com/jmanoeldev.png
+  githubUC: https://avatars.githubusercontent.com/u/219535851?v=4
+occupations:
+  - id: 202614320019
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/jmanoeldev
+  linkedin: https://www.linkedin.com/in/jose-manoel-silva
+  instagram: https://www.instagram.com/josemanoel.exe
+  email: jose1manoel2silva@gmail.com
